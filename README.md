@@ -38,9 +38,12 @@ La solución actual corresponde al **frontend funcional**, implementado con Reac
 ```bash
 git clone https://github.com/<usuario>/<repositorio>.git
 cd banco-agrario-frontend
+```
 ### 2️⃣ Instalar las dependencias
-
+```
 npm install
-
+```
 ### 3️⃣ Ejecutar en modo desarrollo
+```
 npm run dev
+```
